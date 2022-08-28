@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myHelloWorldApp</string>
+    <string name="lilintro">Hello World! My name is Arslan and I am a Computer Science Major.</string>
+    <string name="buttontext">Say Hello!</string>
+</resources>
